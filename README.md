@@ -10,6 +10,7 @@ A simple, CLI-based Expense Tracker built with Java — allows users to:
 - 💾 Store data as `.txt` files under each user's name
 
 ## 📂 Project Structure
+'''
 src/
 ├── org/
 │ └── demo/
@@ -20,7 +21,7 @@ src/
 │ └── util/Constants.java // Category/type constants
 ├── users/ // Directory containing user-specific .txt files
 └── README.md
-
+'''
 ## 🧪 Features
 
 - ✅ Add income/expense transactions
